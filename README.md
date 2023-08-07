@@ -49,8 +49,7 @@ Install the project dependencies:
 
   Open your browser and visit http://localhost:3000 to access HealthHustlers.
 
-## Demo video link
+## Demo
 
-```bash
+Demo video link
 
-```
